@@ -41,8 +41,6 @@
 - My thesis focused on **Automated Testing of Microservices Using Evolutionary Algorithms**.
 - I have experience in building scalable ERP solutions and have worked on AI-driven research projects, especially in machine learning and evolutionary algorithms for distributed systems.
 
-<img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"> 
-
 <h1 align="center">
 ✨ where you can find me ✨
   
